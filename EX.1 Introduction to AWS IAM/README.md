@@ -74,6 +74,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Nikhil (212224040210)
+**Name:** Nikhil (212224040219)
 **Course:** Introduction to Cloud Computing  
 
