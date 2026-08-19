@@ -1,4 +1,3 @@
-<img width="952" height="842" alt="Screenshot 2026-08-19 173750" src="https://github.com/user-attachments/assets/cac4dc2a-c769-4f6d-a831-267e716956e1" /># Lab 5 – Build a Database Server (AWS)
 
 ## Author
 
