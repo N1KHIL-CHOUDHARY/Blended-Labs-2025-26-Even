@@ -81,20 +81,20 @@ Reboot the EC2 instance and verify that the data stored in the EBS volume is sti
 
 ### Screenshot 1: EBS Volume Created
 
-<img width="930" height="885" alt="Screenshot 2026-08-08 110154" src="https://github.com/user-attachments/assets/968a212b-4d59-4680-b824-e0113f4fc5bf" />
+<img width="1045" height="861" alt="image" src="https://github.com/user-attachments/assets/bd480000-4ca5-4b2f-ad0c-12fbd75c4441" />
 
 ---
 
 ### Screenshot 2: EBS Volume Attached to EC2
 
-<img width="947" height="961" alt="Screenshot 2026-08-08 110305" src="https://github.com/user-attachments/assets/5e1af737-5133-411c-a3eb-25a4aeb3c8f1" />
+<img width="983" height="806" alt="image" src="https://github.com/user-attachments/assets/7cd5a676-fec4-495a-b5b4-d48c69a861a8" />
 
 
 ---
 
 ### Screenshot 3: Mounted Volume with Data
 
-<img width="946" height="902" alt="Screenshot 2026-08-08 111324" src="https://github.com/user-attachments/assets/5140ca58-f0e8-46af-91f8-dc8b841d641f" />
+<img width="1050" height="860" alt="image" src="https://github.com/user-attachments/assets/1479bb6d-eb78-4bd4-b4be-e53b3c17e19e" />
 
 
 ---
